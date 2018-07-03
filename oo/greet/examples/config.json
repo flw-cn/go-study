@@ -1,0 +1,9 @@
+{
+    "Debug": true,
+    "LogFile": "json.log",
+    "Greet": {
+        "Debug": true,
+        "LogFile": "json.log",
+        "Interval": 2
+    }
+}

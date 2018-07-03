@@ -1,0 +1,6 @@
+Debug: on
+LogFile: yaml.log
+Greet:
+    Debug: on
+    LogFile: yaml.log
+    Interval: 2
